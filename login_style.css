@@ -1,0 +1,61 @@
+h3{
+    color: #183A1D;
+    text-align: center;
+    padding-top: 40px;
+    font-family: Helvetica;
+}
+body{
+    background-color: #E1EEDD;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+input{
+    width: 235px;
+}
+
+input::placeholder{
+    padding: 0px;
+}
+
+a.password{
+    text-align: left;
+    font-size: small;
+    font-family: Helvetica;
+}
+
+a.register{
+    text-align: right;
+    font-size: small;
+    font-family: Helvetica;
+    padding-left: 53px;
+}
+
+p.a{
+    font-size: small;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+p.signin{
+    font-size: small;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+hr.hr1{
+    border-top: 3px solid #183A1D;
+    width: auto;
+    
+}
+button{
+    background-color: #183A1D;
+    color: white;
+    display: inline-block;
+    padding: 6px 100px;
+}
+div.box{
+    display: inline-block;
+}
